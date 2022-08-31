@@ -1,1 +1,2 @@
-# csc234
+# CSC 234
+# Carlos Castilla Virelles
